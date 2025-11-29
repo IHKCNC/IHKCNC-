@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,.jp
 # 域名关键字匹配
 DOMAIN-KEYWORD,fc2ppv
-DOMAIN-KEYWORD,performance.radar.cloudflare.com
+DOMAIN-KEYWORD,performance.radar
