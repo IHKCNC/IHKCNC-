@@ -8,5 +8,3 @@ DOMAIN-SUFFIX,.jp
 # 域名关键字匹配
 #fc2ppv数据库
 DOMAIN-KEYWORD,fc2ppv
-DOMAIN-KEYWORD,performance
-DOMAIN-KEYWORD,clients4
