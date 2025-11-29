@@ -1,0 +1,9 @@
+# 域名后缀匹配
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,DMM.com
+DOMAIN-SUFFIX,2nt.com
+DOMAIN-SUFFIX,digiket.com
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,.jp
+# 域名关键字匹配
+DOMAIN-KEYWORD,fc2ppv
